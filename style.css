@@ -1,0 +1,130 @@
+.stay-mission{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    margin-left:5px ;
+    
+    
+}
+.border{
+    border-left: 4px solid orange;
+    
+}
+.color{
+    color:salmon;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    color:white;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.focushed{
+    display: flex;
+    margin-left: 90px;
+}
+.focushed-second-half img{
+    width: 60%;
+    margin-left:80px;
+}
+.mission-2022{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+    
+    
+}
+.three-box{
+    display: flex;
+    margin-left: 80px;
+}
+.mission-2022 h1{
+font-size:40px;
+text-align: center;
+}
+#mission{
+   
+    background-color: powderblue;
+}
+#vission{
+    background-color: pink;
+}
+#goals{
+    background-color: papayawhip;
+}
+
+.box{
+    width: 20%; 
+    border-radius:20px;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    
+}
+.box img{
+    width: 50%;
+}
+.develop{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom:100px ;
+    
+}
+.develop img{
+    width: 70%;
+}
+.develop-second-half{
+    margin-top: 40px;
+    margin-right: 150px;
+}
+.community{
+    display: flex;
+    margin-left:100px ;
+    margin-bottom: 100px;
+}
+.community img{
+    width:55%;
+    margin-left: 80px;
+}
+.community-first-half{
+    margin-top: 50px;
+}
+.Diet h1{
+text-align: center;
+font-size: 50px;
+}
+.shape{
+    color:limegreen;
+}
+.nutrition-img img{
+    width: 100%;
+}
+.exercise-img img{
+    width:100%;
+}
+.diet-chart-img img{
+    width: 100%;
+    height: 200px;
+}
+.planning{
+    display: flex;
+}
+.diet-box{
+    width: 25%;
+    margin-left: 50px;
+    padding: 10px 10px;
+    box-shadow: 3px 3px 3px 2px grey;
+    border-radius: 10px;
+}
+.Diet{
+    margin-bottom: 200px;
+}
+footer{
+    
+    background-color: black;
+    color:white;
+    text-align: center;
+    height: 150px;
+}
+footer h1{
+    padding-top: 30px;
+    font-family: 'Lobster', cursive;
+}
